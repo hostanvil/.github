@@ -1,4 +1,4 @@
-![](https://i.imgur.com/aNb9o9b.png)
+![](https://i.imgur.com/Dufe1cj.png)
 
 ## Join In
 We are currently working to make more of our projects open source and easier to help us in development. If you want to help us push forward the open source future, keep an eye out for any projects that may intrest you!
